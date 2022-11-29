@@ -1,0 +1,32 @@
+{
+    "courses": [
+      {
+        "content":"Python",
+        "id": 1
+      },
+      {
+        "content":"Java",
+        "id": 2
+      },
+      {
+        "content":"Dot NET",
+        "id": 3
+      },
+      {
+        "content":"Java Script",
+        "id": 4
+      },
+      {
+        "content":"Angular",
+        "id": 5
+      },
+      {
+        "content":"PHP",
+        "id": 6
+      }
+    ],
+
+    "Enquiry_data":[
+
+    ]
+  }
